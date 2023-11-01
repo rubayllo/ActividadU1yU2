@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<empleados>
+    <empleado>
+        <nombre>Rubén</nombre>
+        <apellido>Ayllón</apellido>
+        <dni>12345678A</dni>
+        <dpto>Ventas</dpto>
+    </empleado>
+    <empleado>
+        <nombre>Miguel</nombre>
+        <apellido>Martínez</apellido>
+        <dni>234567891B</dni>
+        <dpto>RR.HH</dpto>
+    </empleado>
+    <empleado>
+        <nombre>Anna</nombre>
+        <apellido>Ramírez</apellido>
+        <dni>345678912C</dni>
+        <dpto>RR.HH</dpto>
+    </empleado>
+    <empleado>
+        <nombre>Francisco</nombre>
+        <apellido>Moliner</apellido>
+        <dni>456789123D</dni>
+        <dpto>Ventas</dpto>
+    </empleado>
+    <empleado>
+        <nombre>María</nombre>
+        <apellido>Díaz</apellido>
+        <dni>567891234E</dni>
+        <dpto>Atención al cliente</dpto>
+    </empleado>
+    <empleado>
+        <nombre>Laura</nombre>
+        <apellido>Morales</apellido>
+        <dni>678912345F</dni>
+        <dpto>Atención al cliente</dpto>
+    </empleado>
+</empleados>
